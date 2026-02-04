@@ -238,7 +238,7 @@ Default configuration added by the TYPO3 Core:
 
 .. code-block:: php
 
-    'endtime' => [
+    'editlock' => [
         'displayCond' => 'HIDE_FOR_NON_ADMINS',
         'label' => 'LLL:EXT:core/Resources/Private/Language/locallang_tca.xlf:editlock',
         'config' => [
